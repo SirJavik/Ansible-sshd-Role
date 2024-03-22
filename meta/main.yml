@@ -1,0 +1,20 @@
+---
+dependencies: []
+    
+galaxy_info:
+  role_name: sshd
+  author: javik
+  description: OpenSSH for Debian 
+  license: "MIT"
+  min_ansible_version: "2.10"
+  platforms:
+    - name: Debian
+      versions:
+        - all
+  galaxy_tags:
+    - linux
+    - debian
+    - sshd
+    - ssh
+
+allow_duplicates: true
